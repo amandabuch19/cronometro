@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(21, 0, 255, 0.1); /* Roxo/rosa suave com alguma transparência */
+    color: #8A2BE2; /* Azul violeta */
+    text-align: center;
+    margin-top: 50px; /* Adicionado um pouco de margem superior para espaçamento */
+}
+
+h1 {
+    color: #4B0082; /* Roxo mais escuro para o título */
+}
+
+#timer {
+    font-size: 2em; /* Tamanho da fonte aumentado para melhor visualização */
+    font-weight: bold; /* Texto em negrito para destacar */
+    color: #000000; /* Cor preta para o timer ter bom contraste */
+    padding: 20px; /* Adicionado um pouco de padding ao redor do timer */
+    border: 2px solid #8A2BE2; /* Adicionada uma borda para destacar o timer */
+    border-radius: 5px; /* Bordas arredondadas para um visual mais suave */
+    display: inline-block; /* Para que a borda e o padding se ajustem ao conteúdo */
+    background-color: #f0f0f0; /* Um fundo claro para o timer */
+}
